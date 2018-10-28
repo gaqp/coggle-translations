@@ -104,13 +104,13 @@
 /* Plans selection translations (https://coggle.it/plans, when logged in, and
  * also on the homepage)
  */
-<plans-title-freeforever "Coggle is free to use, and always will be. Create unlimited public diagrams and share them for free.">
+<plans-title-freeforever "Coggle é grátis para o uso, e sempre será. Crie diagramas públicos ilimitados e compartilhe-os gratuitamente.">
 
-<plans-free-forever-title "Free Forever">
+<plans-free-forever-title "Grátis para sempre">
 <plans-free-description "Ideal for discovering Coggle and occasional use.">
-<plans-free-price "Free forever">
-<feature-free-private "<b>1</b> private diagram">
-<feature-realtime "<b>Real-time</b> collaboration">
+<plans-free-price "Grátis para sempre">
+<feature-free-private "<b>1</b> Diagrama privado">
+<feature-realtime "Colaboração em <b>tempo real</b>">
 <feature-emoji "Over <b>1600</b> <a>beautiful icons</a>">
 <feature-diagrams "<b>Unlimited</b> public diagrams">
 <feature-nprivate[$privateDiagrams.available] {
